@@ -56,7 +56,7 @@ body {
 #main-nav {
   float: left;
   width: 100%;
-  background-color: #c4a484;	
+  background-color: #836953;	
 }
 
 #main-nav ul {
@@ -127,6 +127,6 @@ a {
 }
 
 #header h2, h3, h4 {
-  color: white;
+  color: #6e6d6d;
   margin-left: 40px;
 }
