@@ -52,7 +52,7 @@ body {
 }
 
 #content-wrapper {
-  background-color: #699176;
+  background-color: #d2b48c;
   width: 100%;
   height: auto;
 }
@@ -63,13 +63,13 @@ body {
   margin-right: 30px;
   float: left;
   margin-left: 60px;  
-  background-color: #699176;
+  background-color: #d2b48c;
 }
 
 #main-nav {
   float: left;
   width: 100%;
-  background-color: #836953;	
+  background-color: #9d825d;	
 }
 
 #main-nav ul {
