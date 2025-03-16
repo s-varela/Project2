@@ -138,11 +138,13 @@ a {
 }
 
 .image1, .image2, .image3 {
-  display: block;
+  display: block;           
   width: 650px;
   height: auto;
-  margin-left: 35px;
-  margin-right: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px; 
 }
 
 #bull1 {
