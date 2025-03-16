@@ -113,6 +113,9 @@ a {
   font-weight: 400;
   font-style: italic;
   font-size: 18px;
+  margin: 0;
+  padding: 20px;
+  line-height: 1;
 }
 
 .image1, .image2, .image3 {
