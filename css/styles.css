@@ -150,9 +150,11 @@ a {
 }
 
 #bull1 {
+  position: relative;
+  bottom: 20px;
   margin: 20px;
 }
 
-#education, #skills {
+#education, #skills, #workexperience{
   bottom: 20px;
 }
