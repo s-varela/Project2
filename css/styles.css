@@ -153,4 +153,6 @@ a {
   margin: 20px;
 }
 
-
+#education, #skills {
+  bottom: 20px;
+}
