@@ -55,6 +55,7 @@ body {
 #content-wrapper {
   background-color: #dbe0d3;
   width: 100%;
+  height: auto;
 }
 
 #main-wrapper {
