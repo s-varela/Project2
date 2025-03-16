@@ -160,3 +160,7 @@ a {
 #education, #skills, #workexperience{
   top: 20px;
 }
+
+#bull2 {
+  position: relative;
+  bottom: 20;
