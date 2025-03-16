@@ -123,11 +123,11 @@ a {
 }
 
 #pfont { 
-  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-family: "Zen Dots", sans-serif;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   font-size: 18px;
-  margin: 0;
+  margin: 20px;
   padding: 20px;
   line-height: 1;
 }
