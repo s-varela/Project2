@@ -40,6 +40,7 @@ body {
 #header h2 {
   position: relative;
   top: 30px;
+  bottom: 20px;
   color: black;
   margin-left: 20px;
   text-align: center;
