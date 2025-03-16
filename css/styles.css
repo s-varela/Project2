@@ -19,7 +19,9 @@ body {
   position:relative;
   margin-left: 30px;
   font-size: 2em;
-  font-family:;
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;  
   color: white;	
 }
 
