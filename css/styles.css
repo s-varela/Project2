@@ -37,7 +37,7 @@ body {
   font-size: 1.8em;	
 }
 
-#header h2 {
+h2 {
   position: relative;
   top: 30px;
   bottom: 20px;
