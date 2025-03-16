@@ -97,12 +97,13 @@ iframe {
 }
 
 p {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom:20 px;
 }
 
 a {
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 #pfont { 
@@ -118,4 +119,5 @@ a {
   margin: 150px;
   width: 650px;
   height: auto;
+  margin-bottom: 20px;
 }
