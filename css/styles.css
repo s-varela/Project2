@@ -134,13 +134,13 @@ a {
   margin: 0;
   padding: 20px;
   line-height: 1;
-  tex
 }
 
 .image1, .image2, .image3 {
   display: block;
-  margin: 150px;
+  margin: 20px;
   width: 650px;
   height: auto;
 }
+
 
