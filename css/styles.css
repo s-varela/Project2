@@ -152,7 +152,7 @@ a {
   margin-bottom: 20px; 
 }
 
-#bull1 {
+.bull1 {
   position: relative;
   top: 20px;
 }
@@ -161,7 +161,7 @@ a {
   top: 20px;
 }
 
-#bull2 {
+.bull2 {
   position: relative;
   bottom: 20;
 }
