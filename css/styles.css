@@ -163,7 +163,9 @@ a {
 
 .bull2 {
   position: relative;
+  margin: 20px;
   bottom: 20;
+  margin-left: 30px;
 }
 .font {  
   margin: 40px;
