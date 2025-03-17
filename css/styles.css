@@ -22,8 +22,7 @@ body {
   margin-right: auto;
   font-size: 3em;
   font-family: "Barriecito", system-ui;
-  font-weight: 400;
-  font-style: bold;  
+  font-weight: 400; 
   color: white;	
   text-align: center;
 }
@@ -164,7 +163,7 @@ a {
 .bull2 {
   position: relative;
   margin: 20px;
-  bottom: 20;
+  bottom: 20px;
   margin-left: 30px;
 }
 .font {  
